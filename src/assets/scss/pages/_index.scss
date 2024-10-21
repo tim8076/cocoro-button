@@ -1,0 +1,6 @@
+.main-body {
+  min-height: calc(100vh - 46px);
+  @include media-breakpoint-up(md) {
+    min-height: calc(100vh - 70px);
+  }
+}

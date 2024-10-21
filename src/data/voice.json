@@ -1,0 +1,218 @@
+[
+  {
+    "type": "laughter",
+    "title": "笑聲",
+    "voice": [
+      {
+        "title": "HiHi",
+        "path": "/mp3/laughter/laughter-1.mp3"
+      },
+      {
+        "title": "HiHi2",
+        "path": "/mp3/laughter/laughter-6.mp3"
+      },
+      {
+        "title": "哈哈",
+        "path": "/mp3/laughter/laughter-2.mp3"
+      },
+      {
+        "title": "哈哈2",
+        "path": "/mp3/laughter/laughter-3.mp3"
+      },
+      {
+        "title": "哈哈3",
+        "path": "/mp3/laughter/laughter-4.mp3"
+      },
+      {
+        "title": "哈哈4",
+        "path": "/mp3/laughter/laughter-5.mp3"
+      },
+      {
+        "title": "hehehehe",
+        "path": "/mp3/laughter/hehehehe.mp3"
+      },
+      {
+        "title": "提摩笑",
+        "path": "/mp3/laughter/提摩笑.mp3"
+      }
+    ]
+  },
+  {
+    "type": "greets",
+    "title": "打招呼",
+    "voice": [
+      {
+        "title": "早安、午安、晚安",
+        "path": "/mp3/greets/早安、午安、晚安.mp3"
+      },
+      {
+        "title": "沒錯~",
+        "path": "/mp3/greets/沒錯.mp3"
+      },
+      {
+        "title": "安安",
+        "path": "/mp3/greets/安安.mp3"
+      },
+      {
+        "title": "安安~笑",
+        "path": "/mp3/greets/安安~(笑).mp3"
+      },
+      {
+        "title": "okok",
+        "path": "/mp3/greets/okok.mp3"
+      },
+      {
+        "title": "なんて",
+        "path": "/mp3/greets/なんて～.mp3"
+      },
+      {
+        "title": "起床起床",
+        "path": "/mp3/greets/起床起床.mp3"
+      },
+      {
+        "title": "起床起床~起床床",
+        "path": "/mp3/greets/起床起床 起床床.mp3"
+      },
+      {
+        "title": "bye bye",
+        "path": "/mp3/greets/bye bye.mp3"
+      },
+      {
+        "title": "下班了",
+        "path": "/mp3/greets/下班了!!!.mp3"
+      },
+      {
+        "title": "安安 早安阿晚安",
+        "path": "/mp3/greets/安安 早安阿晚安.mp3"
+      },
+      {
+        "title": "好耶 好耶 恭喜 恭喜",
+        "path": "/mp3/greets/好耶 好耶 恭喜 恭喜.mp3"
+      }
+    ]
+  },
+  {
+    "type": "mood",
+    "title": "語氣",
+    "voice": [
+      {
+        "title": "breee",
+        "path": "/mp3/mood/breee.mp3"
+      },
+      {
+        "title": "啊哈~死了",
+        "path": "/mp3/mood/啊哈~死了.mp3"
+      },
+      {
+        "title": "(氣音)...阿...",
+        "path": "/mp3/mood/(氣音)...阿.....mp3"
+      },
+      {
+        "title": "38啦",
+        "path": "/mp3/mood/38啦.wav"
+      },
+      {
+        "title": "北七",
+        "path": "/mp3/mood/北七.mp3"
+      },
+      {
+        "title": "好扯喔他作弊",
+        "path": "/mp3/mood/好扯喔他作弊.mp3"
+      },
+      {
+        "title": "厭世可",
+        "path": "/mp3/mood/厭世可.mp3"
+      },
+      {
+        "title": "氣死我了可惡啊哈",
+        "path": "/mp3/mood/氣死我了可惡啊哈.mp3"
+      },
+      {
+        "title": "噁~好難吃喔",
+        "path": "/mp3/mood/噁~好難吃喔~.mp3"
+      },
+      {
+        "title": "太扯了吧",
+        "path": "/mp3/mood/太扯了吧.mp3"
+      },
+      {
+        "title": "牙ㄉ咧牙ㄉ咧",
+        "path": "/mp3/mood/牙ㄉ咧牙ㄉ咧.mp3"
+      },
+      {
+        "title": "請請問我需要吃芋頭嗎",
+        "path": "/mp3/mood/請請問我需要吃芋頭嗎.mp3"
+      },
+      {
+        "title": "要去哪啦38哈哈哈",
+        "path": "/mp3/mood/要去哪啦38哈哈哈.mp3"
+      },
+      {
+        "title": "打嗝",
+        "path": "/mp3/mood/打嗝.mp3"
+      },
+      {
+        "title": "喵喵",
+        "path": "/mp3/mood/喵喵.mp3"
+      },
+      {
+        "title": "氣死人",
+        "path": "/mp3/mood/氣死人.mp3"
+      },
+      {
+        "title": "!@#!@!#!",
+        "path": "/mp3/mood/阿拉阿拉.mp3"
+      },
+      {
+        "title": "啊ˋ哈ˇ(愉悅)",
+        "path": "/mp3/mood/啊ˋ哈ˇ(愉悅).mp3"
+      },
+      {
+        "title": "卡打掐",
+        "path": "/mp3/mood/卡打掐.mp3"
+      },
+      {
+        "title": "阿....",
+        "path": "/mp3/mood/阿....mp3"
+      },
+      {
+        "title": "痾痾~痾痾~",
+        "path": "/mp3/mood/痾痾~痾痾~.mp3"
+      }
+    ]
+  },
+  {
+    "type": "good",
+    "title": "福利專區",
+    "voice": [
+      {
+        "title": "5ma",
+        "path": "/mp3/good/5ma.wav"
+      }
+    ]
+  },
+  {
+    "type": "loli",
+    "title": "心蘿",
+    "voice": [
+      {
+        "title": "蹦蹦炸彈",
+        "path": "/mp3/loli/蹦蹦炸彈.mp3"
+      },
+      {
+        "title": "蘿-心目中前三(長)",
+        "path": "/mp3/loli/蘿-心目中前三(長).mp3"
+      }
+    ]
+  },
+  {
+    "type": "otaku",
+    "title": "心肥宅",
+    "voice": [
+      {
+        "title": "嗨大家好",
+        "path": "/mp3/otaku/肥宅音_嗨大家好.mp3"
+      }
+    ]
+  }
+]
